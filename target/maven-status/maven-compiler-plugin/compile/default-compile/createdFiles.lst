@@ -2,3 +2,4 @@ com\mycompany\adricosmeticosapi\Aplicacao.class
 api\Api.class
 com\mycompany\adricosmeticosapi\JAXRSConfiguration.class
 com\mycompany\adricosmeticosapi\resources\JavaEE8Resource.class
+CorsFilter.class
